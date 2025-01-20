@@ -60,7 +60,7 @@ This project is a **Call Monitoring System** designed to detect suspicious activ
 ### Running the Application
 Run the application with:
 ```bash
-node advancedCallMonitor.js
+node monitor.js
 ```
 
 ---
